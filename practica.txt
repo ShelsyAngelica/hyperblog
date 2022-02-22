@@ -1,5 +1,6 @@
 Este es un nuevo texto que cree,
 
-en el cual voy a practicar e interiorisar 
+en el cual voy a analizar e interiorisar 
+todos los comandos y
 
 los conocimientos que tengo de git 
