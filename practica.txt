@@ -1,0 +1,5 @@
+Este es un nuevo texto que cree,
+
+en el cual voy a practicar e interiorisar 
+
+los conocimientos que tengo de git 
