@@ -3,4 +3,4 @@ Este es un nuevo texto que cree,
 en el cual voy a analizar e interiorisar 
 todos los comandos y
 
-lo que se de git 
+lo que se de git y lo que me falta.
